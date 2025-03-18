@@ -1,0 +1,47 @@
+Text,id,CUI,CONCEPT,Similarity
+The vertigo is rendering me unable to function in daily life causing me to lose work.,22,C0456820 ,"Loss of capacity to feel emotions,Loss of capacity to feel emotions",0.9090122417870962
+The vertigo is rendering me unable to function in daily life causing me to lose work.,22,C0563158 ,"Compulsion to act on dangerous thoughts,Compulsion to act on dangerous thoughts",0.8841453718146951
+I am seeing a specialist for the vertigo and undergoing testing which now I have been diagnosed with vestibular neurontitis.,23,C1562291 ,"Loss of interest in previously enjoyable activity,Loss of interest",0.8568059859873169
+I am seeing a specialist for the vertigo and undergoing testing which now I have been diagnosed with vestibular neurontitis.,23,C0456820 ,"Loss of capacity to feel emotions,Loss of capacity to feel emotions",0.8461422926898828
+My vertigo has not responded to conservative treatment thus far.,24,C0423994 ,"Unable to think clearly,Unable to think clearly",0.8770830318269414
+My vertigo has not responded to conservative treatment thus far.,24,C0456820 ,"Loss of capacity to feel emotions,Loss of capacity to feel emotions",0.8523255431369793
+"Muscle spasms, muscle twitching, muscle soreness, insomnia, mental confusion, flush, brain zaps.",25,C0151786 ,"Muscle Weakness,Muscle weakness",0.8675726904674117
+"Muscle spasms, muscle twitching, muscle soreness, insomnia, mental confusion, flush, brain zaps.",25,C0151786 ,"Muscle Weakness,muscle weakness",0.8675726904674117
+I took Lexapro for 3 days in 10mg doses and had severe side effects immediately.,26,C0233408 ,"Disorientated in time,disorientated in time",0.8214470582354848
+I took Lexapro for 3 days in 10mg doses and had severe side effects immediately.,26,C0233408 ,"Disorientated in time,Disorientated in time",0.8214470582354848
+"Im sorry this is more about not taking it than about side effects of taking it.
+28	""I was given samples today and took one dose before coming to this site, where I learned that insomnia and decreased libido are serious side effects for many people; these are already major, major issues for me, By now, the first feelings of """"tightness"""" in my head, dry mouth, and a little bit of jitters have begun.""
+29	As a result surely of prior conditions, but I do feel in part because of the drug or its jittery side effects, Ive been unable to stop weeping for the past hour.",27,C0456820 ,"Loss of capacity to feel emotions,Loss of capacity to feel emotions",0.9009192071642631
+"Im sorry this is more about not taking it than about side effects of taking it.
+28	""I was given samples today and took one dose before coming to this site, where I learned that insomnia and decreased libido are serious side effects for many people; these are already major, major issues for me, By now, the first feelings of """"tightness"""" in my head, dry mouth, and a little bit of jitters have begun.""
+29	As a result surely of prior conditions, but I do feel in part because of the drug or its jittery side effects, Ive been unable to stop weeping for the past hour.",27,C0563158 ,"Compulsion to act on dangerous thoughts,Compulsion to act on dangerous thoughts",0.899393525486033
+Extreme Weight Gain 30 pounds.,30,C0043094 ,"Weight Gain,Weight gain",0.8781906287622554
+Extreme Weight Gain 30 pounds.,30,C0000765 ,"Excessive body weight gain,Excessive weight gain",0.8733150580142655
+"Excessive perspiration, Erectile dysfunction.",31,C0425769 ,"Excessive orgasm,Excessive orgasm",0.8172619267123251
+"Excessive perspiration, Erectile dysfunction.",31,C0242350 ,"Erectile dysfunction,Impotence",0.782323746642852
+"Almost no libido at all, Utterly useless.",32,C2981158 ,"Lack of libido,Lack of libido",0.8225053819349646
+"Almost no libido at all, Utterly useless.",32,C0424565 ,"Cannot sleep at all,Cannot sleep at all",0.8196757457100463
+"Took a while to have an effect on mood obviously,but side-effects alarming:sudden migraines which I had had very infrequently before.",33,C0563158 ,"Compulsion to act on dangerous thoughts,Compulsion to act on dangerous thoughts",0.8808377391102323
+"Took a while to have an effect on mood obviously,but side-effects alarming:sudden migraines which I had had very infrequently before.",33,C1562291 ,"Loss of interest in previously enjoyable activity,Loss of interest",0.8761571922776927
+Very big increase in blood pressure which I had never experienced before.,34,C0497247 ,"Increase in blood pressure,Finding of increased blood pressure",0.884014180638809
+Very big increase in blood pressure which I had never experienced before.,34,C0233632 ,"Disturbance in thinking,Disturbance in thinking",0.8580049524365464
+"Have your blood pressure checked even if like me, you have never had a problem with it you may be in for a nasty surprise!",35,C0423994 ,"Unable to think clearly,Unable to think clearly",0.8849220375354165
+"Have your blood pressure checked even if like me, you have never had a problem with it you may be in for a nasty surprise!",35,C0563158 ,"Compulsion to act on dangerous thoughts,Compulsion to act on dangerous thoughts",0.8631573320237523
+"Heavy sedation, Jaw Clenching, Inability to organism.",36,C0456820 ,"Loss of capacity to feel emotions,Loss of capacity to feel emotions",0.7869221569342386
+"Heavy sedation, Jaw Clenching, Inability to organism.",36,C0558185 ,"Unable to move,Unable to move",0.7773810720918907
+Very bad side effects.,37,C0563158 ,"Compulsion to act on dangerous thoughts,Compulsion to act on dangerous thoughts",0.7777615497946142
+Very bad side effects.,37,C0023222 ,"Pain in lower limb,Pain in lower limb",0.7563957190417526
+"emotionless, Zombie effect.",38,C0233488 ,"Feeling despair,Feeling despair",0.7548721780839376
+"emotionless, Zombie effect.",38,C0424329 ,"Outbursts of anger,Outbursts of anger",0.7509723270803695
+Loss of memory.,39,C0456814 ,"Loss of motivation,Loss of motivation",0.8833845007521337
+Loss of memory.,39,C0233794 ,"Memory impairment,Memory impairment",0.8694393969402375
+"When i took lexapro i walked around in a ""zombie"" like state because i would never be happy about anything, but never really sad.",40,C0423994 ,"Unable to think clearly,Unable to think clearly",0.8904353693005778
+"When i took lexapro i walked around in a ""zombie"" like state because i would never be happy about anything, but never really sad.",40,C0558127 ,"Feels dreams are real,Feels dreams are real",0.8711371605922146
+"I just kind of felt numb toward all emotion, Also, my memory started lacking and i couldnt remember long periods of time or things i had done.",41,C0456820 ,"Loss of capacity to feel emotions,Loss of capacity to feel emotions",0.9087744567274328
+"I just kind of felt numb toward all emotion, Also, my memory started lacking and i couldnt remember long periods of time or things i had done.",41,C0423994 ,"Unable to think clearly,Unable to think clearly",0.8921264482026082
+i still have difficulty remembering most of that year and for no particular reason.,42,C1562291 ,"Loss of interest in previously enjoyable activity,Loss of interest",0.8921489400039584
+i still have difficulty remembering most of that year and for no particular reason.,42,C0456820 ,"Loss of capacity to feel emotions,Loss of capacity to feel emotions",0.8646952653815977
+"Jaw jacking/clenching teeth, headaches, vomitting, waking up in the middle of the night for hours, increase in anxiety, blurred vision.",43,C0233408 ,"Disorientated in time,Disorientated in time",0.8638319684985813
+"Jaw jacking/clenching teeth, headaches, vomitting, waking up in the middle of the night for hours, increase in anxiety, blurred vision.",43,C0233408 ,"Disorientated in time,disorientated in time",0.8638319684985813
+I started feeling the side effects the fist day i took 10mg.,44,C0456820 ,"Loss of capacity to feel emotions,Loss of capacity to feel emotions",0.8264203604784219
+I started feeling the side effects the fist day i took 10mg.,44,C0563158 ,"Compulsion to act on dangerous thoughts,Compulsion to act on dangerous thoughts",0.8235558532329397
